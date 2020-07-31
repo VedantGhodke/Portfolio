@@ -3,8 +3,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 ###### https://vedantghodke.github.io/
 
-![Image](https://www.dropbox.com/s/1rwvu75724dhuhd/Screenshot%20%2881%29.png?dl=0)
-### About me
+### About Me
 * Competitive Programming Page
 * Web Designing Page
 * Software Development Page
@@ -13,7 +12,7 @@ Web Portfolio to showcase projects and skills in better manner.
 * Machine Learning Page
 * Open Source Page
 
-### Hire Me banner
+### Hire Me Banner
 ### Skills
 * Skills with progress bar
 ### Education

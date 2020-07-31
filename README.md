@@ -2,6 +2,8 @@
 Web Portfolio to showcase projects and skills in better manner. 
 
 ###### https://vedantghodke.github.io/
+![Profile Image](https://github.com/VEDANTGHODKE/Portfolio/blob/gh-pages/Vedant%20Ghodke%20Profile.png)
+
 
 ### About Me
 * Competitive Programming Page

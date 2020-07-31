@@ -1,5 +1,7 @@
 # Portfolio Website - Vedant Ghodke
-Web Portfolio to showcase projects and skills in better manner. 
+
+A simple portfolio website to showcase academic achievements, skills, projects and contact details in a lucid manner
+
 
 ###### https://vedantghodke.github.io/
 ![Profile Image](https://github.com/VEDANTGHODKE/Portfolio/blob/gh-pages/Vedant%20Ghodke%20Profile.png)

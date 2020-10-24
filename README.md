@@ -2,8 +2,8 @@
 
 A simple portfolio website to showcase academic achievements, skills, projects and contact details in a lucid manner
 
-
-###### https://vedantghodke.github.io/
+###### Live Demo: https://vedantghodke.github.io/
+![Profile Image](https://github.com/VEDANTGHODKE/Portfolio/blob/gh-pages/Vedant%20Ghodke%20Profile.png)
 
 ### About me
 * Competitive Programming Page
@@ -18,7 +18,7 @@ A simple portfolio website to showcase academic achievements, skills, projects a
 ### Skills
 * Skills with progress bar
 ### Education
-* Undergraduation
+* Undergraduate
 * Intermediate
 ### Work Experience
 ### Contact

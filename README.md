@@ -18,7 +18,7 @@ A simple portfolio website to showcase academic achievements, skills, projects a
 ### Skills
 * Skills with progress bar
 ### Education
-* Undergrad
+* Undergraduation
 * Intermediate
 ### Work Experience
 ### Contact
